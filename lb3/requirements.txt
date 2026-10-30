@@ -1,0 +1,9 @@
+langchain==1.4.7
+langchain-core==1.7.3
+langchain-google-genai==4.4.2
+langchain-protocol==0.0.20
+langchain-tavily==0.2.18
+pydantic==2.14.2
+pydantic_core==2.50.2
+pytest==9.2.0
+python-dotenv==1.2.4

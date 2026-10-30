@@ -1,0 +1,6 @@
+smolagents[litellm]
+faiss-cpu
+numpy
+requests
+python-dotenv
+pytest
