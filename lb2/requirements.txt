@@ -1,0 +1,7 @@
+arxiv==2.4.1
+llama-index-core==0.14.25
+llama-index-instrumentation==0.6.0
+llama-index-llms-ollama==0.11.0
+llama-index-tools-arxiv==0.6.0
+llama-index-workflows==2.26.1
+ollama==0.6.3
